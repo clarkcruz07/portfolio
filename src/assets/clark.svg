@@ -1,0 +1,16 @@
+<svg width="420" height="420" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="photoGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3ce5ff" />
+      <stop offset="100%" stop-color="#1aa2cd" />
+    </linearGradient>
+  </defs>
+  <rect width="420" height="420" rx="44" fill="#07121e" />
+  <circle cx="210" cy="180" r="120" fill="#0d283f" />
+  <path d="M210 100c44 0 80 36 80 80s-36 80-80 80-80-36-80-80 36-80 80-80z" fill="#173a57" />
+  <path d="M155 292c10-40 25-66 55-66s45 26 55 66" fill="none" stroke="#53f4ff" stroke-width="14" stroke-linecap="round" />
+  <path d="M172 153c12-28 40-38 58-38s46 10 58 38" fill="none" stroke="#6defff" stroke-width="12" stroke-linecap="round" />
+  <path d="M182 176c10 8 18 8 30 8s20 0 30-8" fill="none" stroke="#95edff" stroke-width="10" stroke-linecap="round" />
+  <rect x="88" y="310" width="244" height="28" rx="14" fill="url(#photoGlow)" opacity="0.18" />
+  <text x="210" y="380" fill="#9cc9e5" font-family="Space Mono, monospace" font-size="24" text-anchor="middle">Replace with Clark's photo</text>
+</svg>

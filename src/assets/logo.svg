@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#44f0ff" />
+      <stop offset="100%" stop-color="#17c5d9" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="24" fill="#04121e" />
+  <path d="M32 31 L62 31 L88 57 L88 90 L62 90" fill="none" stroke="url(#brandGradient)" stroke-width="9" stroke-linecap="round" />
+  <path d="M88 31 L58 31 L32 57 L32 90" fill="none" stroke="url(#brandGradient)" stroke-width="9" stroke-linecap="round" />
+  <circle cx="60" cy="60" r="6" fill="#b9fff9" />
+</svg>
